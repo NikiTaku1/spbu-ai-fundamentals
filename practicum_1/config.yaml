@@ -1,0 +1,8 @@
+house_pricing:
+  train_dataset: C:\Users\Zver\Desktop\uni\AIF\Practice\spbu-ai-fundamentals-main\train.csv
+  test_dataset: C:\Users\Zver\Desktop\uni\AIF\Practice\spbu-ai-fundamentals-main\test.csv
+classification:
+  wdbc: C:\Users\Zver\Desktop\uni\AIF\Practice\spbu-ai-fundamentals-main\data.csv
+  mushrooms: C:\Users\Zver\Desktop\uni\AIF\Practice\spbu-ai-fundamentals-main\mushrooms.csv
+clustering:
+  flowcytometry: C:\Users\Zver\Desktop\uni\AIF\Practice\spbu-ai-fundamentals-main\flow_cytometry
