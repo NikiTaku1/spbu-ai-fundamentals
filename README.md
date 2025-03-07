@@ -3,7 +3,7 @@ Materials for the practicum for "AI Fundamentals" course  at SpbU
 
 ## Practicum 1 (Finished)
 
-## Practicum 2 (2 tasks left)
+## Practicum 2 (Finished)
 
 We continue studying pandas and get familiar with data preprocessing techniques (filtering, imputing etc.).
 
