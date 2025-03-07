@@ -5,8 +5,6 @@ Materials for the practicum for "AI Fundamentals" course  at SpbU
 
 ## Practicum 2 (Finished)
 
-We continue studying pandas and get familiar with data preprocessing techniques (filtering, imputing etc.).
-
 ## Practicum 3
 
 We study the scikit-learn architecture.
