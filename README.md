@@ -1,4 +1,4 @@
-# spbu-ai-fundamentals
+# spbu-ai-fundamentals [NKubiakin]
 Materials for the practicum for "AI Fundamentals" course  at SpbU
 
 ## Practicum 1 (Finished)
