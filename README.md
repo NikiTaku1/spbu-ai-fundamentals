@@ -5,9 +5,7 @@ Materials for the practicum for "AI Fundamentals" course  at SpbU
 
 ## Practicum 2 (Finished)
 
-## Practicum 3
-
-We study the scikit-learn architecture.
+## Practicum 3 (Finished)
 
 ## Practicum 4
 
