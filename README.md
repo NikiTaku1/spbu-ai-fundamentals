@@ -7,9 +7,7 @@ Materials for the practicum for "AI Fundamentals" course  at SpbU
 
 ## Practicum 3 (Finished)
 
-## Practicum 4
-
-We make use of scikit-learn classes for data preprocessing.
+## Practicum 4 (Finished)
 
 ## Practicum 5
 
