@@ -9,9 +9,7 @@ Materials for the practicum for "AI Fundamentals" course  at SpbU
 
 ## Practicum 4 (Finished)
 
-## Practicum 5
-
-We study basic techniques for feature engineering (encoding of categorial features) and feature selection (variance threshold).
+## Practicum 5 (Finished)
 
 ## Practicum 6
 
