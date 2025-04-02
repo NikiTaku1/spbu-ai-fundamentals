@@ -11,9 +11,7 @@ Materials for the practicum for "AI Fundamentals" course  at SpbU
 
 ## Practicum 5 (Finished)
 
-## Practicum 6
-
-We study linear models for regression and classification problems.
+## Practicum 6 (Finished)
 
 ## Practicum 7
 
